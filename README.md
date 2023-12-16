@@ -1,4 +1,4 @@
-# Leader Recommendations
+# Recommended Leadership Books
 Curated list of books covering leadership topics.
 
 - [***Emotional Intelligence 2.0***](https://www.amazon.com/Emotional-Intelligence-2-0-Travis-Bradberry/dp/0974320625/ref=asc_df_0974320625&mcid=5938232a75713552a8405ce08df26427?tag=bingshoppinga-20&linkCode=df0&hvadid=80126965543717&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583726541546521&psc=1) by Travis Bradberry & Jean Greaves (2009). As a leader it is imperative one understand one's emotions and acts in a way that produces positive results.
