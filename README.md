@@ -1,4 +1,4 @@
-# Leader References
+# Leader Recommendations
 Compilation of books and articles covering leadership topics.
 
 ### Books
