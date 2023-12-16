@@ -1,7 +1,5 @@
 # Leader Recommendations
-Compilation of books and articles covering leadership topics.
-
-### Books
+Curated list of books covering leadership topics.
 
 - ***Emotional Intelligence 2.0*** by Travis Bradberry & Jean Greaves (2009). As a leader it is imperative one understand one's emotions and acts in a way that produces positive results.
 - ***Good to Great*** by Jim Collins (2001). Useful components you can use to build a strategy for business transformation.
