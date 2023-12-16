@@ -9,6 +9,6 @@ Compilation of books and articles covering leadership topics.
 - ***Semper-Fi Business Leadership the Marine Corps Way*** by Dan Carrison & Rod Walsh. I have had the privilege of leading military veterans.  This was helpful to understand their expectations of me as their leader and provided useful strategies in motivating teams.
 - ***The Five Dysfunctions of a Team: A Leadership Fable*** by Patrick Lencioni (2002). Great reference to tackle team challenges.
 - ***The Seven Habits of Highly Effective People*** by Stephen R. Covey (1990). Relationship-building is important in business and life.
-- ***The Outward Mindset*** by The Arbinger Institute (2016). Useful for leaders who are leading teams through business transformation.
-- ***The Leadership Secrets of Nick Saban*** by John Talty (2022).
-- ***The World's Most Powerful Leadership Principle: How to Become a Servant Leader*** by James C. Hunter (2004). 
+- [***The Outward Mindset***](https://www.amazon.com/Outward-Mindset-Arbinger-Institute/dp/1523087307/ref=sr_1_1?crid=100W6OH5MTVDQ&keywords=The+Outward+Mindset&qid=1702753866&sprefix=the+outward+mindset%2Caps%2C148&sr=8-1) by The Arbinger Institute (2016). Useful for leaders who are leading teams through business transformation.
+- [***The Leadership Secrets of Nick Saban***](https://www.amazon.com/Leadership-Secrets-Nick-Saban-Alabamas/dp/1637740832/ref=sr_1_1?crid=10Z3TRA68B63J&keywords=The+Leadership+Secrets+of+Nick+Saban&qid=1702753824&sprefix=the+leadership+secrets+of+nick+saban%2Caps%2C120&sr=8-1) by John Talty (2022).
+- [***The World's Most Powerful Leadership Principle: How to Become a Servant Leader***](https://www.amazon.com/Worlds-Most-Powerful-Leadership-Principle/dp/1578569753/ref=sr_1_17?crid=296Y4E3F7NY8F&keywords=the+servant+leader&qid=1702752030&sprefix=the+servant+leader%2Caps%2C111&sr=8-17) by James C. Hunter (2004). 
